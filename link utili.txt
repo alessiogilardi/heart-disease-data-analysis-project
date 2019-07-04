@@ -1,0 +1,41 @@
+DECISION TREE e RANDOM FOREST:
+Decision Trees:
+https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb
+https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
+https://www.datacamp.com/community/tutorials/decision-tree-classification-python
+
+Random Forest Explaination:
+https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+https://www.datacamp.com/community/tutorials/random-forests-classifier-python
+
+
+Random Forest in practice:
+https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+
+Tuning Hyperparameters:
+https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+https://towardsdatascience.com/optimizing-hyperparameters-in-random-forest-classification-ec7741f9d3f6
+
+
+GENERICI:
+
+https://www.dataquest.io/blog/sci-kit-learn-tutorial/
+
+https://www.analyticsindiamag.com/7-types-classification-algorithms/
+
+https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+
+https://www.dataquest.io/blog/sci-kit-learn-tutorial/
+
+Heart Disease
+https://www.kaggle.com/kralmachine/analyzing-the-heart-disease
+
+
+https://www.kaggle.com/kralmachine/seaborn-tutorial-for-beginners
+
+SVM Python
+https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/
+=======
+Come funiona una SVM:
+https://stats.stackexchange.com/questions/23391/how-does-a-support-vector-machine-svm-work
+
