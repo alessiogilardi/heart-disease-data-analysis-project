@@ -6,7 +6,7 @@
     - non hanno bisogno di eliminare i valori nulli -> ???
     - dummy features -> ???
     
-2. Random Forest
+2. Random Forest Classifier
     - Uso un insieme di alberi indipendenti tra loro, alla fine viene fatta una votazione dai vari alberi in modo da determinare la risposta
     - Per ottenere alberi indipendenti:
         - Bagging (Bootstrap Aggregation)

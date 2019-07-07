@@ -1,0 +1,26 @@
+1. Random Forest Classifier
+    - Che cos'è?
+        Ensemble learning
+        the wisdom of crowds
+        Utilizzo un grande numero di modelli (alberi) non correlati tra loro che insieme migliorano le perforance del singolo albero
+        trees protect each other from their individual errors
+    - Che cosa garantisce la diversità dei modelli?
+        - Bagging (Bootstrap Aggregation) 
+            I Decision Tree sono molto sensibili al dataset con cui viene fatto il training, piccole differenze nel training set possono
+            portare alla costruzione di alberi molto diversi
+            Le Random Forest sfruttano ciò usando come train set per ogni albero un sample diverso del training set, non usano però
+            sottoinsiemi di dimensione inferiore, infatti il sample viene generato scegliendo anche più volte gli stessi valori
+
+            1. Suppose there are N observations and M features. A sample from observation is selected randomly with replacement(Bootstrapping).
+            2. A subset of features are selected to create a model with sample of observations and subset of features.
+            3. Feature from the subset is selected which gives the best split on the training data.(Visit my blog on Decision Tree to know more of best split)
+            4. This is repeated to create many models and every model is trained in parallel
+            5. Prediction is given based on the aggregation of predictions from all the models.
+
+
+2. Immagini:
+    - Immagini singolo albero
+    - Immagini random Forest
+    - Immagini cross validation
+    - Immagini feature importance
+    - Grafici distribuzioni di feature più importanti
