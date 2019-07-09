@@ -24,3 +24,6 @@
     - Immagini cross validation
     - Immagini feature importance
     - Grafici distribuzioni di feature più importanti
+
+3. Si suppone che major_vessel più è alto meno ci sia possibilità di malattia cardiaca, infatti viene scelta come feature più importante
+e nel grafico delle correlazioni ha un indice di correlazione abbastanza alto e negativo con target
